@@ -16,15 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# Welcome!
 I'm a PhD student from [School of Computer Science](https://scs.bupt.edu.cn/),[Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).My research interest includes Lora.
 
 I am very fortunate to be advised by [Prof. Xiaolong Zheng](https://xiaolongbupt.github.io/) from [School of Computer Science](https://www.bupt.edu.cn/),Beijing University of Posts and Telecommunications. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Tielin Zhang dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Tielin Zhang dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09.01*: &nbsp;🎉🎉 Tielin Zhang dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
